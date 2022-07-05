@@ -15,7 +15,7 @@ To Run the application - Execute below commands
 1.Register as Supervisor from UI 
 
 2.Go to database and Update below command to enable admin.
-    Update [User] set IsAdmin=1 where ID={user id} 
+    ***Update [User] set IsAdmin=1 where ID={user id} ***
 
 3.Now Login.
 
