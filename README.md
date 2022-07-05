@@ -1,7 +1,9 @@
 Allocation System
 
 Front End - UI
+
 IDE : Visual Studio Code
+
 Javascript framework : React JS
 
 
