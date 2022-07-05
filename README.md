@@ -1,7 +1,10 @@
 Allocation System
+
 Front End - UI
 IDE : Visual Studio Code
 Javascript framework : React JS
+
+
 To Run the application - Execute below commands
 "npm install && npm start"
 
